@@ -5,7 +5,7 @@ export default function Credit() {
     <div class="credit">
     <p>
         Coded by
-      <a href="https://github.com/MaheshSawant9936"
+      <a href="https://github.com/MaheshSawant9936/Mahi.git"
         > MaheshSawant9936</a
       > 
     </p>
